@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 <!-- github stats -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexandreGazagnes&show_icons=true&locale=en" alt="github stats" /></p>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlexandreGazagnes)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlexandreGazagnes)](https://github.com/AlexandreGazagnes/github-readme-stats)
