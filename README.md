@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 
 
-My name is Alexandre Gazagnes. I'm a 40 years old guy, living in Rouen (France). I am currently **Senior Data Technical Consultant** and **Data / ML / AI Teacher**.
+My name is Alexandre Gazagnes. I'm a 40 year old guy, living in Rouen (France). I am currently **Senior Data Technical Consultant** and **Data / ML / AI Teacher**.
 
 
 
