@@ -21,7 +21,7 @@ For now :
 - 🤔 I’m looking for help with : 
     - [scikit-transformers](https://github.com/AlexandreGazagnes/scikit-transformers)
     - [awdible](https://github.com/AlexandreGazagnes/awdible)
-    - [yourtube](https://github.com/AlexandreGazagnes/yourtube)
+    - [youRtube](https://github.com/AlexandreGazagnes/yourtube)
 - 📫 How to reach me: 
     * <a href="https://www.linkedin.com/in/alexandregazagnes/">Linkedin</a>
     * <a href="https://twitter.com/Alex_Gazagnes">Twitter</a>
