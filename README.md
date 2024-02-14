@@ -12,9 +12,10 @@ My Tag line ?
 
 <quote>Forbes *1 billion under 1 billion*, Father of 3, 10 times consecutive 2nd european worst chess player.</quote>
 
-🔭 I’m currently working on  : too many subjects at once 
-🌱 I’m currently learning : the 🎺 Trumpet, the 🎹 piano, and ♟️ chess.  
-👯 I’m looking to collaborate on : learn to see a side project through to the end, if humanly feasible.
+For now : 
+- 🔭 I’m currently working on  : too many subjects at once 
+- 🌱 I’m currently learning : the 🎺 Trumpet, the 🎹 piano, and ♟️ chess.  
+- 👯 I’m looking to collaborate on : learn to see a side project through to the end, if humanly feasible.
 - 🤔 I’m looking for help with : 
     - [scikit-transformers](https://github.com/AlexandreGazagnes/scikit-transformers)
     - [awdible](https://github.com/AlexandreGazagnes/awdible)
