@@ -10,7 +10,7 @@ My name is Alexandre Gazagnes. I'm a 40 year old guy, living in Rouen (France). 
 
 My Tag line ? 
 
-* "<quote>Forbes *1 billion under 1 billion*, Father of 3, 10 consecutive times 2nd worst European chess player.</quote>"
+> <quote>Forbes '1 billion under 1 billion' 2022, Father of 3, 10 consecutive times 2nd worst European chess player.</quote>
 
 For now : 
 - 🔭 I’m currently working on  : too many subjects at once.
