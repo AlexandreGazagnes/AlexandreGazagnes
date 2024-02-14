@@ -13,7 +13,7 @@ My Tag line ?
 Forbes *1 billion under 1 billion*, Father of 3, 10 times consecutive 2nd european worst chess player.
 
 <!-- - 🔭 I’m currently working on  -->
-- 🌱 I’m currently learning the 🎺 Trumpet 🎺, the 🎹 piano 🎹, and ♟️ chess ♟️   
+- 🌱 I’m currently learning the 🎺 Trumpet, the 🎹 piano, and ♟️ chess.  
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with : 
     - [scikit-transformers](https://github.com/AlexandreGazagnes/scikit-transformers)
