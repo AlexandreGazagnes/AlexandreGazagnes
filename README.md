@@ -74,10 +74,7 @@ For now :
 
 - ![](https://img.shields.io/badge/Lib-Matplotlib-informational?style=flat&logo=matplotlib&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-Seaborn-informational?style=flat&logo=seaborn&logoColor=white&color=2bbc8a)
-<!-- ![](https://img.shields.io/badge/Lib-Plotly-informational?style=flat&logo=plotly&logoColor=white&color=2bbc8a) -->
-
-
-- ![](https://img.shields.io/badge/App-Gephi-informational?style=flat&logo=gephi&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lib-Plotly-informational?style=flat&logo=plotly&logoColor=white&color=2bbc8a)
 
 
 ### :card_file_box: Data Collection
