@@ -10,7 +10,7 @@ Welcome to my GitHub profile; My name is Alexandre Gazagnes. I am currently Data
 
 My Tag line ? 
 
-Forbes *1 billion under 1 billion*, Father of 3, 10 times conseuctive 2nd european worst chess player.
+Forbes *1 billion under 1 billion*, Father of 3, 10 times consecutive 2nd european worst chess player.
 
 <!-- - 🔭 I’m currently working on  -->
 - 🌱 I’m currently learning the 🎺 Trumpet 🎺, the 🎹 piano 🎹, and ♟️ chess ♟️   
