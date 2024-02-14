@@ -1,4 +1,4 @@
-### Hi there 👋 
+### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there ! 
 
 Welcome to my GitHub profile! 
 
@@ -7,6 +7,7 @@ My name is Alexandre Gazagnes. I'm a 40 year old guy, living in Rouen (France).
 I am currently **Senior Data Technical Consultant** and **Data / ML / AI Teacher**.
 
 
+<br>
 
 ## 😃 About Me
 
@@ -101,8 +102,10 @@ For now :
 
 ## 📈 Stats
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreGazagnes&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- most used langages -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexandreGazagnes&show_icons=true&locale=en&layout=compact" alt="most used langages" /></p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexandreGazagnes&show_icons=true&locale=en&layout=compact" alt="most used langages" /></p> -->
 
 
 <!-- github stats -->
